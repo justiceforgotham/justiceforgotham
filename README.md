@@ -6,5 +6,5 @@
 
 <div align=center>
   
-  [ata](https://shotgunnur.atabook.org) .. [straw (WIP)]() .. [main](https://github.com/shotgunnur)
+  [ata](https://shotgunnur.atabook.org) .. straw (WIP) .. [main](https://github.com/shotgunnur)
 </div>
