@@ -6,5 +6,5 @@
 
 <div align=center>
   
-  [ata](https://shotgunnur.atabook.org)⠀..⠀[straw](https://justiceforgotham.straw.page/)
+  [ata](https://shotgunnur.atabook.org)⠀..⠀[straw](https://justiceforgotham.straw.page/)⠀..⠀[rentry](https://rentry.co/justice_forgotham)
 </div>
